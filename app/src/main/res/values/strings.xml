@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BallClicker</string>
+    <string name="time_0">Time : 0</string>
+    <string name="score_0">Score : 0</string>
+</resources>
